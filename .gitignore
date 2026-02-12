@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/logs/
+/tmp/
+.env
+*.log
+Thumbs.db
