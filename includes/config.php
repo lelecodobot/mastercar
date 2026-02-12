@@ -14,7 +14,7 @@ if (!defined('MASTER_CAR')) {
 // =====================================================
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_PASS', 'Davi@2015');
 define('DB_NAME', 'mastercar');
 define('DB_CHARSET', 'utf8mb4');
 
